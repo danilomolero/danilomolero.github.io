@@ -1,4 +1,7 @@
 ---
+author: danilomolero
+comments: true
+date: 2023-12-17 21:19:34+00:00
 layout: post
 ---
 Sobre o passo inicial em Python
