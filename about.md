@@ -6,7 +6,10 @@ permalink: /about/
 
 Olá, Me chamo Danilo Molero!
 
-![](/assets/euemeusproblemas.png)
+<div style="text-align:center">
+  <img src="/assets/euemeusproblemas.png" alt="Blog Logo" width="230" height="295">
+</div>
+
 
 Sou um entusiasta de tecnologia e ciência.
 Vou deixar esse site simples para me encorajar a postar mais.
