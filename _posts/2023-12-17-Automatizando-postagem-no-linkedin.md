@@ -88,3 +88,4 @@ post_button = WebDriverWait(driver, 10).until(
   EC.element_to_be_clickable((By.XPATH, post_button_xpath))
 )
 post_button.click()
+```
