@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+<div style="text-align:center"><img src="/assets/logo.jfif" alt="Blog Logo"/></div>
