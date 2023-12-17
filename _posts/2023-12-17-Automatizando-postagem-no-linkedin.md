@@ -1,8 +1,7 @@
 ---
-author: danilomolero
-comments: true
-date: 2023-12-17 21:19:34+00:00
 layout: post
+title: "Postagem automatizada no linkedin"
+categories: misc
 ---
 Sobre o passo inicial em Python
 
