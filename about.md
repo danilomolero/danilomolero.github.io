@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Olá, Me chamo Danilo Molero!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![](/assets/euemeusproblemas.png)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sou um entusiasta de tecnologia e ciência.
+Vou deixar esse site simples para me encorajar a postar mais.
 
+Você pode me contatar nesse email: danilo.molero@outlook.com
 
-[jekyll-organization]: https://github.com/jekyll
+Fiz esse site para representar meus interesses em programação, ciência de dados, física e matemática.
+
+Me dá um alô lá no [ linkedin]([https://www.linkedin.com/in/danilo-molero/).
