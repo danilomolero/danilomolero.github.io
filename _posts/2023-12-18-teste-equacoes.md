@@ -3,11 +3,16 @@ author: danilomolero
 comments: true
 date: 2023-12-18
 layout: post
-title: ----
+title: Teste para equações
 ---
 
-\LaTeX$ 
-The quadratic formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+Apenas testando como a linguagem do github (markdown) funciona com equações em LaTex
+
+
+Formula quadrática: is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+
+Integral no intervalo AB:
+
 $$
 \int_{a}^{b} f(x) \, dx = F(b) - F(a)
 $$
