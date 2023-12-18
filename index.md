@@ -8,5 +8,5 @@
 layout: home
 ---
 <div style="text-align:center">
-  <img src="/assets/logo.jfif" alt="Blog Logo" width="230" height="230">
+  <img src="/assets/matart.jpg" alt="Blog Logo" width="230" height="230">
 </div>
