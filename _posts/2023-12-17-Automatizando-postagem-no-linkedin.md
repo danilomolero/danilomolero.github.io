@@ -14,7 +14,7 @@ Tudo de uma forma iniciante, claro, mas com um número bom de desafios daqueles 
 Olhando agora, foi divertido e valeu a pena.
 
 Escrevi um script que logou no meu Linkedin, pegou o certificado que tinha salvo no meu PC, escreveu a mensagem da postagem e postou.
-Tá aqui a [postagem]([https://www.linkedin.com/feed/update/urn:li:activity:7133694396247490560/).
+Tá aqui a [postagem](https://www.linkedin.com/feed/update/urn:li:activity:7133694396247490560/).
 
 Quem quiser ver o código, tá aí (eu substituí a senha por "x" pra evitar espertinhos):
 
