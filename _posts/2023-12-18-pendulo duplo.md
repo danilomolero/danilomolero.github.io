@@ -3,7 +3,7 @@ author: danilomolero
 comments: true
 date: 2023-12-18
 layout: post
-title: Pendulo Duplo
+title: Pêndulo Duplo
 ---
 ## Caos.
 É uma palavra que a gente encontra sempre em muitos contextos diferentes, mas na física ela me foi apresentada por um professor através do problema do pêndulo duplo. 
