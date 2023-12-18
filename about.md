@@ -18,4 +18,4 @@ Você pode me contatar nesse email: danilo.molero@outlook.com
 
 Fiz esse blog para representar meus interesses em programação, ciência de dados, física e matemática.
 
-Me dá um alô lá no [ linkedin]([https://www.linkedin.com/in/danilo-molero/).
+Me dá um alô lá no [ linkedin](https://www.linkedin.com/in/danilo-molero/).
