@@ -6,7 +6,7 @@ permalink: /about/
 
 Olá, Me chamo Danilo Molero!
 
-Sou um entusiasta de tecnologia e ciência que acerta na cozinha às vezes.
+Sou um entusiasta de tecnologia e ciência que acerta na cozinha as vezes.
 
 <div style="text-align:center">
   <img src="/assets/euemeusproblemas.png" alt="Blog Logo" width="230" height="295">
