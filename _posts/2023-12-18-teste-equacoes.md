@@ -1,7 +1,7 @@
 ---
 author: danilomolero
 comments: true
-date: 2023-12-18 17:32:26+00:00
+date: 2023-12-18
 layout: post
 title: ----
 ---
