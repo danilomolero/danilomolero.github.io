@@ -1,7 +1,7 @@
 ---
 author: danilomolero
 comments: true
-date: 2023-12-18
+date: 2023-12-17
 layout: post
 title: Teste para equações
 ---
