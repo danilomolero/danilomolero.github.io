@@ -6,7 +6,8 @@ layout: post
 title: Movimento Browniano, Simulações Visuais e o Medo da Mudança
 ---
 
-##Voltei.
+## Voltei
+
 Muita coisa mudou.
 Comigo e com o mundo.
 E IA está envolvida nesse processo (meu e do mundo).
