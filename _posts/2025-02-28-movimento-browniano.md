@@ -10,10 +10,11 @@ title: Movimento Browniano, Simulações Visuais e o Medo da Mudança
 
 Muita coisa mudou.
 Comigo e com o mundo.
-E IA está envolvida nesse processo (meu e do mundo).
-A mudança é a constante, mas que medo!
 
-Gosto de simular aleatoriedade e usar programação para isso.
+E IA está envolvida nesse processo (meu e do mundo). A mudança é a constante, mas que medo!
+
+Enfim, Gosto de simular aleatoriedade e usar programação para isso.
+
 ###Movimento Browniano.
 
 Quem me falou disso foi um grande professor anos atrás.
