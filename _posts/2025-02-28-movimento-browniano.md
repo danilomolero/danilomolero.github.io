@@ -26,9 +26,8 @@ Aleatoriedade, irregularidade.
 Mesmo que seja um geninho e uma garrafinha, já tá ótimo.
 Estava estudando sobre movimento browniano e fiz isso:
 
-python
-Copy
-Edit
+```python
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
@@ -84,6 +83,7 @@ plt.xlabel("Eixo X")
 plt.ylabel("Eixo Y")
 plt.grid(True)
 plt.show()
+```
 
 É divertido corrigir os próprios erros.
 Seja na programação ou não.
